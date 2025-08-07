@@ -15,62 +15,70 @@
   <img src="https://streak-stats.demolab.com?user=aikansh008&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aikansh008&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aikansh008&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
-
-
-
-###
-
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="Flutter logo" />
   <img width="12" />
-  <img src="https://www.pngwing.com/en/free-png-aztay" height="30" alt="Flutter logo"  />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="30" alt="Firebase logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" height="30" alt="Supabase logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="flutter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="SQL logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="30" alt="Jenkins logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++ logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="Dart logo" />
 </div>
 
 ###
-
 <div align="left">
-
   <a href="https://discord.gg/WyTC26wt" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+  </a>
+    <a href="https://www.linkedin.com/in/aikansh-tiwari-52a6b4273/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
   <a href="mailto:aikanshtiwri007@gamil.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   <a href="https://leetcode.com/u/Aikansh_tiwari13/" target="_blank">
-    <img src="https://www.google.com/imgres?q=leetcode%20svg&imgurl=https%3A%2F%2Fcdn.worldvectorlogo.com%2Flogos%2Fleetcode-1.svg&imgrefurl=https%3A%2F%2Fworldvectorlogo.com%2Flogo%2Fleetcode-1&docid=VQ-4eOBsAWENeM&tbnid=0JQEjX-Ep8sNVM&vet=12ahUKEwiIx4GPrr2OAxVAbmwGHekPCvIQM3oECGUQAA..i&w=2500&h=2500&hcb=2&ved=2ahUKEwiIx4GPrr2OAxVAbmwGHekPCvIQM3oECGUQAA" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo" />
   </a>
-    <a href="https://www.linkedin.com/in/aikansh-tiwari-52a6b4273/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  <a href="[https://auth.geeksforgeeks.org/user/aikansh008/practice](https://www.geeksforgeeks.org/user/aikanshtiy4l2/?_gl=1*wvnawl*_up*MQ..*_gs*MQ..&gclid=Cj0KCQjwndHEBhDVARIsAGh0g3BYtR7tYBV2Mqpwm1yfDwuxBtTAaKR-bPqY0iiqB_zbboC6zkQ6N1UaAiUCEALw_wcB&gbraid=0AAAAAC9yBkDeSU8lm4HMYb36Bryvijk_6)" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-354250?style=for-the-badge&logo=geeksforgeeks&logoColor=00FF84" height="35" alt="gfg logo" />
   </a>
-    <a href="https://www.linkedin.com/in/aikansh-tiwari-52a6b4273/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-    <a href="https://www.linkedin.com/in/aikansh-tiwari-52a6b4273/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  <a href="https://codeforces.com/profile/Aikansh_tiwari13" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" height="35" alt="codeforces logo" />
   </a>
 </div>
-
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/aikansh008/aikansh008/output/snake.svg" alt="Snake animation" />
-
-###
