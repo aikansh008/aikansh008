@@ -71,7 +71,7 @@
   <a href="https://leetcode.com/u/Aikansh_tiwari13/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo" />
   </a>
-  <a href="[https://auth.geeksforgeeks.org/user/aikansh008/practice](https://www.geeksforgeeks.org/user/aikanshtiy4l2/?_gl=1*wvnawl*_up*MQ..*_gs*MQ..&gclid=Cj0KCQjwndHEBhDVARIsAGh0g3BYtR7tYBV2Mqpwm1yfDwuxBtTAaKR-bPqY0iiqB_zbboC6zkQ6N1UaAiUCEALw_wcB&gbraid=0AAAAAC9yBkDeSU8lm4HMYb36Bryvijk_6)" target="_blank">
+  <a href="https://www.geeksforgeeks.org/user/aikanshtiy4l2/?_gl=1*wvnawl*_up*MQ..*_gs*MQ..&gclid=Cj0KCQjwndHEBhDVARIsAGh0g3BYtR7tYBV2Mqpwm1yfDwuxBtTAaKR-bPqY0iiqB_zbboC6zkQ6N1UaAiUCEALw_wcB&gbraid=0AAAAAC9yBkDeSU8lm4HMYb36Bryvijk_6" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-354250?style=for-the-badge&logo=geeksforgeeks&logoColor=00FF84" height="35" alt="gfg logo" />
   </a>
   <a href="https://codeforces.com/profile/Aikansh_tiwari13" target="_blank">
